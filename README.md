@@ -28,6 +28,12 @@ npm run dev
 - Wired data fetching through a Next.js App Router API route instead of static imports.
 - Documented setup and structure here.
 
+## Live Demo & Repository
+
+Live Deployment (Vercel): https://sales-project-psi.vercel.app/
+
+GitHub Repository: https://github.com/AnkitSharma5304/Sales-Project
+
 ## Tech
 - Next.js 15 (App Router), TypeScript
 - Tailwind CSS
