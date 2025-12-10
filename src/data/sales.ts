@@ -3,8 +3,6 @@ export type SalesEntry = {
   sales: number;
 };
 
-// Mocked from a retail sales Kaggle sample, lightly randomized per month
-// to keep the shape realistic without needing an API call.
 export const salesByYear: Record<string, SalesEntry[]> = {
   "2024": [
     { month: "Jan", sales: 18240 },
